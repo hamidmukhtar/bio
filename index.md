@@ -2,6 +2,7 @@
 ### Ph.D. Computer Science
 ### Taif University, KSA
 
+[Research](./research.html) | [Teaching] (./teaching.html) | [Consulting] (./consulting.md)
 You can use the [editor on GitHub](https://github.com/hamidmukhtar/bio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ```markdown
