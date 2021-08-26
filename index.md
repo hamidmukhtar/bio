@@ -2,8 +2,7 @@
 ### Ph.D. Computer Science
 ### Taif University, KSA
 
-[Research](./research.md) | [Teaching](./teaching.html) | [Consulting](./consulting.md) | [Certificates](certificates.html) | [Experience] (experience.html)
-You can use the [editor on GitHub](https://github.com/hamidmukhtar/bio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Research](./research.md) | [Publications](publications.hml) | [Teaching](./teaching.html) | [Consulting](./consulting.md) | [Certificates](certificates.html) | [Experience] (experience.html)
 
 ```markdown
 Syntax highlighted code block
