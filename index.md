@@ -2,7 +2,7 @@
 ### Ph.D. Computer Science
 ### Taif University, KSA
 
-[Research](./research.md) | [Publications](publications.htm) | [Teaching](./teaching.html) | [Consulting](./consulting.md) | [Certificates](certificates.html) | [Experience](experience.html)
+[Research Projects](./research.md) | [Publications](publications.htm) | [Research Metrics](metrics.html) | [Teaching](./teaching.html) | [Consulting](./consulting.md) | [Certificates](certificates.html) | [Experience](experience.html)
 
 ```markdown
 Syntax highlighted code block
